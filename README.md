@@ -10,7 +10,7 @@ di ciascuna riga, la somma dei numeri di ciascuna
 colonna, e la somma dei numeri su ciascuna diagonale
 sono uguali.
 
-Nota: il valore delle somme sar√†
+Nota: il valore delle somme sar‡†
 ( N^2*(N^2+1)/2 ) / N 
 
 # Analisi del problema
